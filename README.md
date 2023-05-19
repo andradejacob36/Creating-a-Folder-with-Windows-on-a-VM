@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/XQf7h39.png" height="50%" width="50%"/>
+<img src="https://i.imgur.com/BQZcbiG.png" height="30%" width="30%"/>
 </p>
 
 <h1>Creating-a-Folder-with-Windows-on-a-VM</h1>

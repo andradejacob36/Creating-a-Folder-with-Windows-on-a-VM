@@ -57,20 +57,4 @@ Image Display of Step 4
 </p>
 <p>
   
-  
-  
-  
-  Linux operating system (OS)
-  
-  Qwiklab
-  
-  After you click the “Start Lab” button, you will see a shell, where you will be performing further steps in the lab. You should have a shell that looks like this:
-
-Creating a Folder
-To create a sample folder, enter this command into the terminal:
-
-'mkdir my-super-cool-folder'
-  
-  This creates a directory called "my-super-cool-folder" in your current directory.
-
 
